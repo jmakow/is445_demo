@@ -12,7 +12,7 @@ import altair as alt
 st.title('Streamlit App for IS445: ID14966')
 
 st.text("The URL for this app is: https://johnmakowiecki-is445-demo.streamlit.app/")
-st.text("The URL for its GitHub repo is: https://github.com/%3Cjmakow%3E/is445_demo")
+st.text("The URL for its GitHub repo is: https://github.com/jmakow/is445_demo")
 
 source = "https://cdn.jsdelivr.net/npm/vega-datasets@v1.29.0/data/seattle-weather.csv"
 
